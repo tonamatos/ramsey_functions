@@ -26,7 +26,7 @@ This repo contains three things:
 <td>
 
 <p align="center">
-<img src="./programming2.PNG" width="500"/>
+<img src="./programming2.PNG" width="600"/>
 </p>
 
 </td>
