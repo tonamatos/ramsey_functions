@@ -7,7 +7,7 @@ This project was part of the 2023 <a href="https://www.mathematics.utoronto.ca/o
 ### Developed by
 
 - Amber Bajaj (mentee)<br/>
-- Tonatiuh Matos Wiederhold (mentor)<br/>
+- Tonatiuh Matos-[Wiederhold.dev](https://wiederhold.dev) (mentor)<br/>
   Dept. of Mathematics, University of Toronto, Canada.<br/>
   tonamatos@gmail.com
 
